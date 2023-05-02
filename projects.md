@@ -16,18 +16,18 @@ The specific problems I have worked on so far are as follows:
   
 - cooperation and non-cooperation for climate-economics.
   
-### Network structure inference;
+## Network Structure Inference
 (to learn the underlying network structure 
   given public behavioral data),
 
-### Differentially private games;
+## Differentially Private Games
 (to protect the privacy of payoff functions 
   in information aggregation processes),
 
-### Price shaping problem;
+## Price Shaping Problem
  (to guarantee unit resource price under a threshold)
  
-### Cooperation and non-cooperation for climate-economics.
+## Cooperation and Non-cooperation for Climate-Economics.
 
 (to provide insights for regional climate policies from the perspective of game theory and optimal control).
   
