@@ -6,39 +6,12 @@ title: Awards
 
 ## Awards & Honors
 
-- April 2023：Outstanding Student Leaders of Fuzhou University
-- March 2023：Second Prize Scholarship of FZU (Top 5%)
-- Dec 2022：**First Prize** (Fujian Competition Area) in China Undergraduate Mathematical Contest in Modeling
-- Oct 2022：Maynooth International Engineering College Best Student Project in Academic Year 2021/2022 (**Only One Team**)
-- Sep 2022：Nomination for China National Scholarship (Top 1%)
-- Sep 2022：First Prize Scholarship of FZU (**Only Best Student** in my major, **1/60**)
-- Aug 2022： Third Prize in China National College Student Computer Design Competition
-- June 2022：Second Prize in Fujian College Student Computer Design Competition
-- June 2022：**Champion** of 100-meter Freestyle Swimming Competition of Fuzhou University
-- June 2022：Third Prize in the 13th "Nanwei" Cup Mathematical Mathematical Contest in Modeling
-- May 2022：Third Prize (Short Videos Group) in China National College Student New Media Competition
-- March 2022：First Prize Scholarship of FZU (**1/60**)
-- Sep 2021：Third Prize Scholarship of FZU (Top 12%)
-- May 2021：Merit Student of Fuzhou University
-- March 2021：First Prize Scholarship of FZU (**1/60**)
+- Diversity and Inclusion Travel Support for IFAC World Congress, 2023
+- Student Travel Grant for American Control Conference, 2023
+- Faculty of Engineering Career Advancement Award, USYD, 2023
+- Best Student Paper for Australian-New Zealand Control Conference, 2021
+- Engineering and Information Technologies Research Scholarship, USYD, 2019 - 2023
+- First Prize Scholarship for Academic Outstanding (Less than 0.5%), BUPT, 2016 - 2019
+- Merit Student (Less than 1%), BUPT, 2016 - 2019
 
 
-
-## Services
-
-- Oct 2022 - June 2024：Research assistant at Key Laboratory of Industrial Automation Control Technology and Information Processing (Fujian Province)
-- Sep 2022 - Sep 2023：IEEE Student Membership
-- Sep 2021 - Sep 2022：Deputy President of Volunteer Department, Youth League Committee, Fuzhou University
-- Sep 2020 - Sep 2021：Monitor of Maynooth International Engineering College, Fuzhou University
-
-
-
-## Voluntary
-
-- April 2022：**Top 10 Best Volunteers (Only 10/30000)** of the year 2021-2022 at Fuzhou University
-- July 2021：Outstanding volunteer at 44th session of the World Heritage Committee
-- April 2021：Outstanding volunteer at 4th Digital China Summit
-
-
-
-Lastest Update: 27th April 2023 &nbsp; [中文版 (Chinese Version)](https://caihanlin.com/awards-zh/)
