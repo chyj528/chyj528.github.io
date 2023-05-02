@@ -30,3 +30,15 @@ title: Publications
 
 
 ## Preprints Under Journal Review
+- **Yijun Chen** and Guodong Shi, [How Cooperation and Competition Arise in 
+  Regional Climate Policies: RICE as a Dynamic Game.]() Submitted to IEEE 
+  Transactions on Control Systems Technology, 2023.
+
+- Zeinab Salehi, **Yijun Chen**, Ian R. Petersen, Elizabeth L. Ratnam, and Guodong Shi. [Competitive Equilibrium for Dynamic Multi-Agent Systems: Social Shaping and Price Trajectories.]() Under revision for IEEE Transactions on Automatic Control, 2022.
+
+- Kemi Ding, **Yijun Chen**, Lei Wang, Xiaoqiang Ren, and Guodong Shi, [Network Learning in Quadratic Games from Best-Response Dynamics.]() Submitted to IEEE/ACM Transactions on Networking, 2023.
+
+- Yan Leng, **Yijun Chen**, Xiaowen Dong, Junfeng Wu, and Guodong Shi. [Can 
+  Social Connections Be Protected When Behavioral Data is Public?]() Submitted to Management Information Systems Quarterly, 2022.
+
+- Zeinab Salehi, **Yijun Chen**, Ian R. Petersen, Elizabeth L. Ratnam, and Guodong Shi. [Social Shaping for Transactive Energy Systems.]() Submitted to IEEE Transactions on Energy Markets, Policy and Regulation, 2022.
