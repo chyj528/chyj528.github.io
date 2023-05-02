@@ -4,7 +4,7 @@ layout: page
 
 <img src="https://chyj528.github.io/yijunchen.jpg">
 
-# Biography
+## Biography
 
 Here is **Yijun Chen (Daisy, 陈依珺)**. I am currently a Ph.D. Candidate in Control
 System Engineering
@@ -24,25 +24,17 @@ advised by Lecturer Rongfeng Li.
 
 My research interests are mainly about learning, decision making, optimization
 and control in multi-agent systems, which is closely related to game theory,
-control theory, network science and optimization.
+control theory, network science and optimization. 
 
-The specific problems I have worked on so far are as follows:
-
-- price shaping problem (to guarantee unit resource price under a threshold);
-- network structure inference (to learn the underlying network structure given
-  public behavioral data);
-- differentially private games (to protect the privacy of payoff functions in
-  information aggregation processes);
-- cooperation and non-cooperation under Dynamic/Regional Integrated Climate
-  Economy framework (to provide insights for regional climate policies from the
-  perspective of game theory and optimal control).
 
 In the future, I wish to contribute more to the areas of networked control
 systems and cooperative/non-cooperative control and optimization, with
 applications to cyber-physical systems, manufacturing systems, smart cities and
-so on.
+so on. 
+
 
 Download my [CV](https://chyj528.github.io/CV-Yijun_Chen.pdf) here.
+
 
 
 
