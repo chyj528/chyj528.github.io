@@ -1,20 +1,32 @@
 ---
-layout: page
-permalink: /publications/index.html
-title: Publications
+layout: page permalink: /publications/index.html title: Publications
 ---
 
 # Publications
 
-Lastest Update: 2nd March 2023&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/publications-zh/)
+## Journal Articles
+- **Yijun Chen**, Razibul Islam, Elizabeth L. Ratnam, Ian R. Petersen, and Guodong Shi. "Competitive Equilibriums and Social Shaping for Multi-Agent Systems." Automatica, 2022.
 
-## Conference Paper
+## Conference Papers
+- **Yijun Chen** and Guodong Shi, "Dynamic Game for Regional Climate Mitigation Control." Accepted by the 22nd World Congress of the International Federation of Automatic Control, 2023
 
-- [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://caihanlin.com/mypaper/202302ICAROB.pdf)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>28th International Conference on Artificial Life and Robotics<br>Beppu, Japan. February, 2023. [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).
+- **Yijun Chen** and Guodong Shi, "Differentially Private Games via Payoff Perturbation." Accepted by the American Control Conference, 2023.
 
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://caihanlin.com/mypaper/202208cenim.pdf)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022. [Slides](https://caihanlin.com/mypaper/slides/2022-CENIM-Pre-v2.pdf), [Talk](https://youtu.be/-XIMa5-SaTk/).
+- **Yijun Chen**, Kemi Ding, and Guodong Shi, "Network Learning from Best-Response Dynamics in LQ Games." Accepted by the American Control Conference, 2023.
 
-## Working Paper
+- **Yijun Chen**, Razibul Islam, Elizabeth L. Ratnam, Ian R. Petersen, and Guodong Shi. "Social Shaping of Competitive Equilibriums for Resilient Multi-agent Systems." In the 60th IEEE Conference on Decision and Control, 2021.
 
-- RIGMS Testbed for IoT Cybersecurity Using Machine Learning Based Approach. [The latest manuscript](https://caihanlin.com/mypaper/202210camb.pdf) (29th Dec 2022)
-- Reshape the Crowning Glory of Maasai Mara. [The latest manuscript](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf) (Competition paper for 2023 MCM Contest)
+- Zeinab Salehi, **Yijun Chen**, Elizabeth L. Ratnam, Ian R. Petersen, and Guodong Shi. "Social Shaping of Dynamic Multi-Agent Systems Over a Finite Horizon", In the 61st IEEE Conference on Decision and Control, 2022.
+
+- Zeinab Salehi, **Yijun Chen**, Elizabeth L. Ratnam, Ian R. Petersen, and Guodong Shi. "Social Shaping of Linear Quadratic Multi-Agent Systems." In the 5th Australian & New Zealand Control Conference, 2021. (Best Student Paper)
+
+## Preprints Under Journal Review
+- **Yijun Chen** and Guodong Shi, "How Cooperation and Competition Arise in Regional Climate Policies: RICE as a Dynamic Game." Submitted to IEEE Transactions on Control Systems Technology, 2023.
+
+- Zeinab Salehi, **Yijun Chen**, Ian R. Petersen, Elizabeth L. Ratnam, and Guodong Shi. "Competitive Equilibrium for Dynamic Multi-Agent Systems: Social Shaping and Price Trajectories." Under revision for IEEE Transactions on Automatic Control, 2022.
+
+- Kemi Ding, **Yijun Chen**, Lei Wang, Xiaoqiang Ren, and Guodong Shi, "Network Learning in Quadratic Games from Best-Response Dynamics." Submitted to IEEE/ACM Transactions on Networking, 2023.
+
+- Yan Leng, **Yijun Chen**, Xiaowen Dong, Junfeng Wu, and Guodong Shi. "Can Social Connections Be Protected When Behavioral Data is Public?" Submitted to Management Information Systems Quarterly, 2022.
+
+- Zeinab Salehi, **Yijun Chen**, Ian R. Petersen, Elizabeth L. Ratnam, and Guodong Shi. "Social Shaping for Transactive Energy Systems." Submitted to IEEE Transactions on Energy Markets, Policy and Regulation, 2022.
