@@ -8,8 +8,6 @@ title: Blogs
 
 ### 2023
 
-- 21岁，何妨吟啸且徐行<br>
-- 浅谈 Diversity<br>
 - [极简风个人网站搭建指南](https://caihanlin.com/blogs/web)
 
 ### 2022
