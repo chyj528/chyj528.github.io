@@ -75,7 +75,7 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: yijun
 
 
 include: [".htaccess"]
