@@ -4,8 +4,6 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-# Publications
-
 ## Journal Articles
 - **Yijun Chen**, Razibul Islam, Elizabeth L. Ratnam, Ian R. Petersen, and 
   Guodong Shi. [Competitive Equilibriums and Social Shaping for Multi-Agent 
