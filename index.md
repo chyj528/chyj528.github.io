@@ -24,7 +24,7 @@ advised by Lecturer Rongfeng Li.
 
 My research interests are mainly about learning, decision making, optimization
 and control in multi-agent systems, which is closely related to game theory,
-control theory, network science and optimization. Download my [CV](https://chyj528.github.io/CV-Yijun_Chen.pdf) here.
+control theory, network science and optimization. Download my [CV](https://chyj528.github.io/file/CV-Yijun_Chen.pdf) here.
 
 <div class="no-indent">
 In the future, I wish to contribute more to the areas of networked control
