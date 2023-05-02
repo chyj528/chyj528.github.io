@@ -7,7 +7,7 @@ title: Yijun Chen
 # Owner/author information
 owner:
   name: Yijun Chen
-  avatar: yijunchen.png
+  avatar: yijun_avatar.jpg
 #  bio:
   email: chyj528@outlook.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -32,7 +32,7 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
+  - title: Home
     url: /
   - title: Publications
     url: /publications/
