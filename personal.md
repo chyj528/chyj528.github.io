@@ -7,7 +7,7 @@ title: Personal
 # Personal
 
 ## R.I.P. My Cat Brother
-<img src="https://chyj528.github.io/yijunchen.jpg">
+<img src="https://chyj528.github.io/images/cat_brother.jpg">
 
 I am forever grateful that I stepped into your brief life and had a special 
 connection. You 
