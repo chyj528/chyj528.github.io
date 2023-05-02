@@ -4,7 +4,7 @@ layout: page
 
 # Biography
 
-<img src="https://chyj528.github.io/yijunchen.jpg" class="floatpic" width="360" height="480">
+<img src="https://chyj528.github.io/yijunchen.jpg">
 
 Here is **Yijun Chen (Daisy, 陈依珺)**.
 
