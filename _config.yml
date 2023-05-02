@@ -40,8 +40,8 @@ links:
     url: /projects/
   - title: Awards
     url: /awards/
-  - title: Hobbies
-    url: /hobbies/
+  - title: Personal
+    url: /personal/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Australia/Sydney
