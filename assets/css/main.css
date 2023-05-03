@@ -383,3 +383,7 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
 .no-indent {
   margin-left: 0;
 }
+
+a {
+  color: lightblue;
+}
