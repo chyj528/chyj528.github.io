@@ -60,13 +60,6 @@ a given privacy budget.
 
 ### Cooperation and Non-cooperation for Climate-Economics
 
-<div style="display:flex">
-    <img src="https://chyj528.github.io/research/climate/DICE_workflow.png" alt="Image 1" style="width:50%;">
-    <img src="https://chyj528.github.io/research/climate/RICE_workflow.png" alt="Image 2" style="width:50%;">
-</div>
-
-
-<div class="no-indent">
 One of the most widely used models for studying the geographical economics 
 of climate change is the Regional Integrated model of Climate and the 
 Economy (RICE). We investigate how cooperation and competition arise in regional climate policies under the RICE framework from the standpoints of game theory and optimal control. 
@@ -97,6 +90,10 @@ The results reveal how game theory may be used to facilitate international
 negotiations towards consensus on regional climate-change mitigation policies,
 as well as how cooperative and competitive regional relations shape climate
 change for our future.
-</div> 
+
+<div style="display:flex">
+    <img src="https://chyj528.github.io/research/climate/DICE_workflow.png" alt="Image 1" style="width:50%;">
+    <img src="https://chyj528.github.io/research/climate/RICE_workflow.png" alt="Image 2" style="width:50%;">
+</div>
 
 
