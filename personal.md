@@ -13,6 +13,7 @@ connection. You
 taught me about life, death, and love. Although I lost you to illness, your 
 pawprints will forever be etched on my soul. May you find eternal sunshine and endless fields to explore in the realm beyond.
 </div>
+ 
 
 
 ## Brazilian Jiu-Jitsu
