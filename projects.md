@@ -55,7 +55,11 @@ network games with players' payoffs being linear-quadratic functions, and derive
 explicit conditions on how the LLQFP mechanism ensures differential privacy with
 a given privacy budget.
 
-<img src="https://chyj528.github.io/research/privacy/Pipeline.png">
+<div style="display:flex">
+    <img src="https://chyj528.github.io/research/privacy/ne_distribution.png" 
+alt="Image 1" style="width:50%;">
+    <img src="https://chyj528.github.io/research/privacy/payoffs.png" alt="Image 2" style="width:50%;">
+</div>
 
 
 ### Cooperation and Non-cooperation for Climate-Economics
