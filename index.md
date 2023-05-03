@@ -12,8 +12,9 @@ at [Australian Center for Robotics](https://www.sydney.edu.au/engineering/our-re
 , University of Sydney, supervised by Associate
 Professor [Guodong Shi](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/guodong-shi.html)
 and
-Professor [Ian Manchester](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/ian-manchester.html)
-. Before that, I received my bachelor’s degree in Digital Media Technology from
+Professor [Ian Manchester](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/ian-manchester.html). 
+
+Before that, I received my bachelor’s degree in Digital Media Technology from
 Beijing University of Posts and Telecommunications, Beijing, China, in 2019,
 advised by Lecturer Rongfeng Li.
 
@@ -31,6 +32,8 @@ In the future, I wish to contribute more to the areas of networked control
 systems and cooperative/non-cooperative control and optimization, with
 applications to cyber-physical systems, manufacturing systems, smart cities and
 so on. 
+      
+
 </div> 
  
 
