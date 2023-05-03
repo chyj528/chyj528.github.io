@@ -62,6 +62,7 @@ alt="Image 1" style="width:50%;">
 <img src="https://chyj528.github.io/research/privacy/payoffs.png" alt="Image 2" style="width:50%;">
 </div>
 
+
 ## Price Shaping Problem
 We study multi-agent systems with decentralized resource allocations. Agents have local demand and resource supply, and are interconnected through a network designed to support sharing of the local resource; and the network has no external resource supply. Agents decide on the consumed resource, and perhaps further the traded resource as well, to maximize their payoffs considering both the utility of the consumption, and the income from the trading. When the network supply and demand are balanced, 
 - a competitive equilibrium is achieved if all agents maximize their individual payoffs;
@@ -74,6 +75,7 @@ The results are as follows:
 - Finally, we present a recursive representation of the competitive equilibriums using dynamic programming, and a receding horizon approach for smoothing  the dynamic pricing as a dynamic competitive equilibrium social shaping method. 
 
 <img src="https://chyj528.github.io/research/shaping/rhp_ehp.png">
+
 
 ## Climate-Economics Dynamic Game
 
