@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-## [CV](https://chyj528.github.io/file/CV-Yijun_Chen.pdf)
+## [My CV Here!](https://chyj528.github.io/file/CV-Yijun_Chen.pdf)
 <img src="https://chyj528.github.io/yijunchen.jpg">
 
 ## Biography
