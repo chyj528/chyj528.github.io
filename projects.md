@@ -41,8 +41,6 @@ available on request.
 
 ### Differentially Private Games
 
-<img src="https://chyj528.github.io/research/privacy/Pipeline.png">
-
 We study network games where players are involved in information aggregation
 processes subject to the differential privacy requirement for players’ payoff
 functions. We propose a Laplace linear-quadratic functional perturbation (LLQFP)
@@ -56,5 +54,49 @@ tuning. We focus on linear-quadratic games, which is a fundamental type of
 network games with players' payoffs being linear-quadratic functions, and derive
 explicit conditions on how the LLQFP mechanism ensures differential privacy with
 a given privacy budget.
+
+<img src="https://chyj528.github.io/research/privacy/Pipeline.png">
+
+
+### Cooperation and Non-cooperation for Climate-Economics
+
+<div style="display:flex">
+    <img src="https://chyj528.github.io/research/climate/DICE_workflow.png" alt="Image 1" style="width:50%;">
+    <img src="https://chyj528.github.io/research/climate/RICE_workflow.png" alt="Image 2" style="width:50%;">
+</div>
+
+
+<div class="no-indent">
+One of the most widely used models for studying the geographical economics 
+of climate change is the Regional Integrated model of Climate and the 
+Economy (RICE). We investigate how cooperation and competition arise in regional climate policies under the RICE framework from the standpoints of game theory and optimal control. 
+
+First, we show that the RICE model is inherently a dynamic game. Second, we
+study both cooperative and non-cooperative solutions to this RICE dynamic game.
+
+- Cooperative settings:
+  - We investigate the global social welfare equilibrium that maximizes the
+    weighted and cumulative social welfare across regions.
+  - We divide the regions into two clusters: developed and developing, and look
+    at the social welfare frontier under the notion of Pareto optimality.
+  - We present a receding horizon approach to approximate the global social
+    welfare equilibrium for robustness and computational efficiency.
+- Non-cooperative settings:
+  - We study best-response dynamics and open-loop Nash equilibrium of the RICE
+    game. A Recursive Best-response Algorithm for Dynamic Games (RBA-DG) is
+    proposed to describe the sequences of best-response decisions for dynamic
+    games, which indicates convergence to open-loop Nash equilibrium when
+    applied to the RICE game by numerical studies.
+  - We also study online receding horizon feedback decisions of the RICE game. A
+    Receding Horizon Feedback Algorithm for Dynamic Games (RHFA-DG) is proposed.
+
+All these proposed solution concepts are implemented and open sourced using the
+latest updated parameters and data.
+
+The results reveal how game theory may be used to facilitate international
+negotiations towards consensus on regional climate-change mitigation policies,
+as well as how cooperative and competitive regional relations shape climate
+change for our future.
+</div> 
 
 
