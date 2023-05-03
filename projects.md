@@ -11,9 +11,9 @@ The specific problems I have worked on so far are as follows:
 - [network structure inference](https://chyj528.github.io/mypaper/ACC_2023_Learn_Game_Structure.pdf);
 - [differentially private games](https://chyj528.github.io/mypaper/ACC_2023_Private_Game.pdf);
 - [price shaping problem](https://chyj528.github.io/mypaper/Automatica_2022.pdf);
-- [cooperation and non-cooperation for climate-economics](https://chyj528.github.io/mypaper/arXiv_climate.pdf).
+- [climate-economics dynamic game](https://chyj528.github.io/mypaper/arXiv_climate.pdf).
 
-### Network Structure Inference
+## Network Structure Inference
 
 We investigate the capacity of an adversary to learn the underlying interaction
 network through repeated best response actions in linear-quadratic games. The
@@ -39,7 +39,7 @@ available on request.
     <img src="https://chyj528.github.io/research/inference/T_performance.png" alt="Image 2" style="width:50%;">
 </div>
 
-### Differentially Private Games
+## Differentially Private Games
 
 We study network games where players are involved in information aggregation
 processes subject to the differential privacy requirement for players’ payoff
@@ -56,13 +56,13 @@ explicit conditions on how the LLQFP mechanism ensures differential privacy with
 a given privacy budget.
 
 <div style="display:flex">
-    <img src="https://chyj528.github.io/research/privacy/ne_distribution.png" 
+<img src="https://chyj528.github.io/research/privacy/ne_distribution.png" 
 alt="Image 1" style="width:50%;">
-    <img src="https://chyj528.github.io/research/privacy/payoffs.png" alt="Image 2" style="width:50%;">
+<img src="https://chyj528.github.io/research/privacy/payoffs.png" alt="Image 2" style="width:50%;">
 </div>
 
 
-### Cooperation and Non-cooperation for Climate-Economics
+## Climate-Economics Dynamic Game
 
 One of the most widely used models for studying the geographical economics 
 of climate change is the Regional Integrated model of Climate and the 
