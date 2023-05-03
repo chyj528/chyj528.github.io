@@ -3,21 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f920e74b-b2c1-48b2-9d1a-c9834de4255b" name="Changes" comment="Changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mypaper/202208cenim.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mypaper/202210camb.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mypaper/202302ICAROB.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mypaper/IP/Objective.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mypaper/IP/Paper.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mypaper/IP/Proposal.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mypaper/IP/Record.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mypaper/IP/Resume.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mypaper/IP/cover-letter.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mypaper/modeling/202206Nanwei.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mypaper/modeling/202209CUMCM.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mypaper/modeling/202302COMAP.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mypaper/slides/2022-CENIM-Pre-v2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mypaper/slides/2023-ICAROB-Pre.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/publications.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
