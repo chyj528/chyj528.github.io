@@ -13,7 +13,6 @@ at [Australian Center for Robotics](https://www.sydney.edu.au/engineering/our-re
 Professor [Guodong Shi](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/guodong-shi.html)
 and
 Professor [Ian Manchester](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/ian-manchester.html). 
-
 Before that, I received my bachelor’s degree in Digital Media Technology from
 Beijing University of Posts and Telecommunications, Beijing, China, in 2019,
 advised by Lecturer Rongfeng Li.
