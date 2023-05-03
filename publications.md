@@ -18,7 +18,7 @@ title: Publications
 - **Yijun Chen** and Guodong Shi, [Differentially Private Games via Payoff Perturbation.](https://chyj528.github.io/mypaper/ACC_2023_Private_Game.pdf) Accepted by the American Control Conference, 2023.
 
 - **Yijun Chen**, Kemi Ding, and Guodong Shi, [Network Learning from 
-  Best-Response Dynamics in LQ Games.](https://chyj528.github.io/mypaper/) Accepted by the American Control Conference, 2023.
+  Best-Response Dynamics in LQ Games.](https://chyj528.github.io/mypaper/ACC_2023_Learn_Game_Structure.pdf) Accepted by the American Control Conference, 2023.
 
 - **Yijun Chen**, Razibul Islam, Elizabeth L. Ratnam, Ian R. Petersen, and Guodong Shi. [Social Shaping of Competitive Equilibriums for Resilient Multi-agent Systems.](https://chyj528.github.io/mypaper/CDC_2021.pdf) In the 60th IEEE Conference on Decision and Control, 2021.
 
