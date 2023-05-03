@@ -106,5 +106,4 @@ as well as how cooperative and competitive regional relations shape climate
 change for our future. All these proposed solution concepts are implemented and open sourced using the
 latest updated parameters and data at [https://github.com/chyj528/RICE-GAME](https://github.com/chyj528/RICE-GAME).
 
-<img src="https://chyj528.github.io/research/climate/DICE_workflow.png">
 <img src="https://chyj528.github.io/research/climate/RICE_workflow.png">
