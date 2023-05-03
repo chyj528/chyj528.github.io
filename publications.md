@@ -29,6 +29,7 @@ title: Publications
 
 
 ## Preprints Under Journal Review
+The following preprints are available upon request. 
 - **Yijun Chen** and Guodong Shi, [How Cooperation and Competition Arise in 
   Regional Climate Policies: RICE as a Dynamic Game.]() Submitted to IEEE 
   Transactions on Control Systems Technology, 2023.
