@@ -39,6 +39,7 @@ available on request.
     <img src="https://chyj528.github.io/research/inference/T_performance.png" alt="Image 2" style="width:50%;">
 </div>
 
+
 ## Differentially Private Games
 
 We study network games where players are involved in information aggregation
@@ -61,6 +62,15 @@ alt="Image 1" style="width:50%;">
 <img src="https://chyj528.github.io/research/privacy/payoffs.png" alt="Image 2" style="width:50%;">
 </div>
 
+## Price Shaping Problem
+We study multi-agent systems with decentralized resource allocations. Agents have local demand and resource supply, and are interconnected through a network designed to support sharing of the local resource; and the network has no external resource supply. Agents decide on the consumed resource, and perhaps further the traded resource as well, to maximize their payoffs considering both the utility of the consumption, and the income from the trading. When the network supply and demand are balanced, a competitive equilibrium is achieved if all agents maximize their individual payoffs, and a social welfare equilibrium is achieved if the total agent utilities are maximized. 
+
+First, we consider multi-agent systems with static local allocations, and prove from duality theory that under general convexity assumptions, the competitive equilibrium and the social welfare equilibrium exist and agree. Compared to similar results in the literature based on KKT arguments, duality theory provides a direct way for connecting the two notions and for a more general class of utility functions. Next, we show that the agent utility functions can be prescribed in a family of socially admissible functions, under which the resource price at the competitive equilibrium is kept below a threshold. Finally, we extend the study to dynamical multi-agent systems where agents are associated with dynamical states from linear processes, and prove that the dynamic competitive equilibrium and the dynamic social welfare equilibrium continue to exist and coincide with each other. In addition, we also present a recursive representation of the competitive equilibriums using dynamic programming, and a receding horizon approach for smoothing  the dynamic pricing as a dynamic competitive equilibrium social shaping method. 
+
+<div style="display:flex">
+<img src="https://chyj528.github.io/research/shaping/rhp_ehp.png" 
+style="width:90%;">
+</div>
 
 ## Climate-Economics Dynamic Game
 
@@ -87,13 +97,11 @@ study both cooperative and non-cooperative solutions to this RICE dynamic game.
   - We also study online receding horizon feedback decisions of the RICE game. A
     Receding Horizon Feedback Algorithm for Dynamic Games (RHFA-DG) is proposed.
 
-All these proposed solution concepts are implemented and open sourced using the
-latest updated parameters and data.
-
 The results reveal how game theory may be used to facilitate international
 negotiations towards consensus on regional climate-change mitigation policies,
 as well as how cooperative and competitive regional relations shape climate
-change for our future.
+change for our future. All these proposed solution concepts are implemented and open sourced using the
+latest updated parameters and data at [https://github.com/chyj528/RICE-GAME](https://github.com/chyj528/RICE-GAME).
 
 <div style="display:flex">
     <img src="https://chyj528.github.io/research/climate/DICE_workflow.png" alt="Image 1" style="width:50%;">
