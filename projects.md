@@ -38,3 +38,23 @@ available on request.
     <img src="https://chyj528.github.io/research/inference/noise_performance.png" alt="Image 1" style="width:50%;">
     <img src="https://chyj528.github.io/research/inference/T_performance.png" alt="Image 2" style="width:50%;">
 </div>
+
+### Differentially Private Games
+
+<img src="https://chyj528.github.io/research/privacy/Pipeline.png">
+
+We study network games where players are involved in information aggregation
+processes subject to the differential privacy requirement for players’ payoff
+functions. We propose a Laplace linear-quadratic functional perturbation (LLQFP)
+mechanism, which perturbs players' payoff functions with linear-quadratic
+functions whose coefficients are produced from truncated Laplace distributions.
+
+For monotone games, we show that the LLQFP mechanism maintains the concavity
+property of the perturbed payoff functions, and produces a perturbed NE whose
+distance from the original NE is bounded and adjustable by Laplace parameter
+tuning. We focus on linear-quadratic games, which is a fundamental type of
+network games with players' payoffs being linear-quadratic functions, and derive
+explicit conditions on how the LLQFP mechanism ensures differential privacy with
+a given privacy budget.
+
+
