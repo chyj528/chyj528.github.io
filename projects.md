@@ -1,5 +1,6 @@
 ---
-layout: page permalink: /projects/index.html title: Projects
+layout: page permalink: /projects/index.html 
+title: Projects
 ---
 
 ## Research Projects
