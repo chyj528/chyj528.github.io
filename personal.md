@@ -4,7 +4,7 @@ permalink: /personal/index.html
 title: Personal
 ---
 
-## Quartet of Cuteness: Welcoming Our Newborn Kittens into the Family
+## Quartet of Cuteness
 <img src="https://chyj528.github.io/images/kittens.jpeg">
 
 Four lovely kittens have just been welcomed into the world by my mother's cat. Each one of them is charmingly small, wonderfully fluffy, and undeniably endearing. Their innocent cries echo throughout our home, bringing an atmosphere of vibrant life and happiness. We've quickly become smitten with these tiny, fur-clad creatures. It's an experience filled with sheer delight.
